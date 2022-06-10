@@ -59,3 +59,32 @@ main{
  
 
 }
+
+.meme-img{
+    display: block;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    height:600px;
+    padding-top: 50px;
+
+}
+
+.top-text{
+   text-align: center;
+   font-size: 45px;
+   position: relative;
+   bottom: 550px;
+   font-family: Impact, fantasy;
+   color: white
+    
+}
+
+.bottom-text{
+    position: relative;
+    text-align: center;
+    font-size: 45px;
+    bottom: 260px;
+    font-family: Impact, fantasy;
+   color: black
+}
